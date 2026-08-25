@@ -2,6 +2,10 @@
 
 StatusFlow is a simple web-development task built with **HTML, CSS, JavaScript, PHP, and MySQL**. It demonstrates how a frontend form can save data to a database and update records asynchronously without refreshing the page.
 
+## Live Demo
+
+🌐 [View the live website](http://arwa1188.kesug.com)
+
 ## Features
 
 - Add a person's **name** and **age**.
